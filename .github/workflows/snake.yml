@@ -1,8 +1,8 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # execute every 3 months to avoid SPAM. If I want I can run the action myself.
+    - cron: "0 0 1 */3 *"
   workflow_dispatch:
 
 jobs:
