@@ -25,7 +25,7 @@
   ##
  
 <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" alt="_" height="90" src="https://github-profile-trophy.vercel.app/?username=RenanMsV&column=9&theme=radical">
+  <img align="center" alt="_" height="74" src="https://github-profile-trophy.vercel.app/?username=RenanMsV&column=9&theme=radical">
 </a>
 
 <picture>
