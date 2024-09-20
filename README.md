@@ -1,12 +1,9 @@
 ### Hi there 👋
-
-
- <div>
-  <a href="https://github.com/RenanMsV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanMsV&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMsV&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-<div style="display: inline_block"><br>
+<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanMsV&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMsV&layout=compact&langs_count=7&theme=tokyonight"/>
+</a>
+<div style="display: inline_block"></br>
   <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="roblox" height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Roblox_Logo.svg/400px-Roblox_Logo.svg.png">
   <img align="center" alt="unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
@@ -26,7 +23,11 @@
 </div>
   
   ##
-  
+ 
+<a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" alt="_" height="90" src="https://github-profile-trophy.vercel.app/?username=RenanMsV&column=9&theme=radical">
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RenanMsV/RenanMsV/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/RenanMsV/RenanMsV/blob/output/github-contribution-grid-snake.svg" />
