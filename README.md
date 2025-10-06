@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=flat" height="30" alt="gitlab logo"  />
   </a>
   <a href="https://buymeacoffee.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Buy%20Me%20a%20Coffee&logo=patreon&label=&color=fff78c&logoColor=yellow&labelColor=&style=flat" height="30" alt="patreon logo"  />
+    <img src="https://img.shields.io/static/v1?message=Buy%20Me%20a%20Coffee&logo=buy-me-a-coffee&label=&color=fff78c&logoColor=black&labelColor=&style=flat" height="30" alt="buy me a coffee logo"  />
   </a>
   <a href="https://itch.io" target="_blank">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" alt="itch logo"  />
@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenanMsV&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RenanMsV&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RenanMsV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=RenanMsV&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
