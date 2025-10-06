@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate Profile Snake
 
 on:
   schedule: # execute every 3 months to avoid SPAM. If I want I can run the action myself.
