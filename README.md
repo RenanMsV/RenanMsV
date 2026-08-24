@@ -44,9 +44,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenanMsV&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&v=2" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RenanMsV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=RenanMsV&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=RenanMsV&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&v=2" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=RenanMsV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a target="_blank" href="https://gist.github.com/RenanMsV/d112b404341c72c1c1ff80bbf4b24ad1/"><img src="https://github-stats-extended.vercel.app/api/gist?id=d112b404341c72c1c1ff80bbf4b24ad1&theme=tokyonight" height="150" alt="gist"  /></a>
+  <a target="_blank" href="https://gist.github.com/RenanMsV/2bc2d52caf5bcaae632aad57013d0cb2/"><img src="https://github-stats-extended.vercel.app/api/gist?id=2bc2d52caf5bcaae632aad57013d0cb2&theme=tokyonight" height="150" alt="gist"  /></a>
+  <!--img src="https://gh-trophy.cdnsoft.net?username=RenanMsV&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /-->
 </div>
 
 ###
