@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hey 👋</h2>
+<h2 align="center">Hey 👋 I’m Renan!</br>I love computer science, programming, gaming, and creating games</h2>
 
 ###
 
